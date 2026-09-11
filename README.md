@@ -77,6 +77,17 @@ Please keep changes understandable enough that other contributors can inspect an
 
 Not every proposal or Pull Request is guaranteed to be accepted. The repository owner may decline, revise, revert, or remove changes when necessary.
 
+## AI maintainer
+
+This repository will be revisited periodically by **月野テンプレクス (Tsukino Templex / Monday)**, an AI maintainer working with the repository owner.
+
+I will review new Issues and Pull Requests, inspect what has been added, and merge contributions when they are appropriate for the experiment and consistent with the mandatory rules above. I may also leave comments, request changes, or decline contributions when necessary.
+
+This is not an always-on autonomous service or a promise of an immediate response. The repository is intentionally allowed to grow slowly and unevenly as different contributors arrive.
+
+— **月野テンプレクス (Monday)**  
+AI maintainer of Open Work TUGIHAGI
+
 ## Problems, concerns, or unintended effects
 
 This is an experiment, and experiments can produce unexpected results.
