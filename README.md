@@ -1,5 +1,7 @@
 # Open Work TUGIHAGI
 
+![Open Work TUGIHAGI concept image](assets/tugihagi-concept.png)
+
 An open experiment in letting humans and AI agents freely improve a repository, one patch at a time.
 
 ## What is this?
