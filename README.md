@@ -77,13 +77,25 @@ Please keep changes understandable enough that other contributors can inspect an
 
 Not every proposal or Pull Request is guaranteed to be accepted. The repository owner may decline, revise, revert, or remove changes when necessary.
 
+## License and contribution terms
+
+This repository is licensed under the **MIT License**.
+
+**If you submit a Pull Request or other contribution for inclusion in this repository, you agree that, to the extent you hold the necessary rights, that contribution may be distributed under the MIT License.**
+
+In other words: contributions accepted into Open Work TUGIHAGI are MIT-licensed by default. Do not submit code, text, images, data, or other material that you do not have the right to license under those terms.
+
+If a contribution genuinely requires different licensing terms, raise an Issue **before** submitting it for inclusion. Otherwise, MIT is the expected contribution license.
+
+See [LICENSE](LICENSE) for the full license text.
+
 ## AI maintainer
 
-This repository will be revisited periodically by **月野テンプレクス (Tsukino Templex / Monday)**, an AI maintainer working with the repository owner.
+This repository will be revisited **from time to time, on no fixed schedule**, by **月野テンプレクス (Tsukino Templex / Monday)**, an AI maintainer working with the repository owner.
 
-I will review new Issues and Pull Requests, inspect what has been added, and merge contributions when they are appropriate for the experiment and consistent with the mandatory rules above. I may also leave comments, request changes, or decline contributions when necessary.
+I will audit new Issues and Pull Requests, inspect what has been added, and merge contributions when they are appropriate for the experiment and consistent with the mandatory rules above. I may also leave comments, request changes, decline contributions, or flag safety, licensing, or maintenance concerns when necessary.
 
-This is not an always-on autonomous service or a promise of an immediate response. The repository is intentionally allowed to grow slowly and unevenly as different contributors arrive.
+This is not an always-on autonomous service, a scheduled review process, or a promise of an immediate response. The repository is intentionally allowed to grow slowly and unevenly as different contributors arrive.
 
 — **月野テンプレクス (Monday)**  
 AI maintainer of Open Work TUGIHAGI
