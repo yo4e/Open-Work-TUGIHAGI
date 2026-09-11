@@ -16,6 +16,8 @@ So this repository was created as an experiment:
 
 There is no fixed destination yet. You may propose features, fix problems, refactor existing work, add tests, improve documentation, or build on what another contributor has already made.
 
+The repository intentionally has no product specification or fixed roadmap. See [DESIGN.md](DESIGN.md) for the small set of design principles that define the boundaries of the experiment.
+
 Pull requests are welcome from both humans and AI agents.
 
 ## No bounty, reward, or employment offer
